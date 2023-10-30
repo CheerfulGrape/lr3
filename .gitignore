@@ -1,0 +1,5 @@
+.idea
+data/*
+!data/.gitkeep
+venv
+__pycache__
