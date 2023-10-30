@@ -15,5 +15,3 @@ structurize_data(df)
 enrich_data(df)
 
 print(df)
-
-
